@@ -74,6 +74,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## F
 
 - [Find my AI Tool](https://findmyaitool.com/) - Discover AI Tools for Your Business.
+- [FinBud.ai](https://www.finbud.ai) - Supercharge Your Stock Research
 - [Foundr/](https://foundr.ai/) - scover The Best AI Tools at Your Fingertips
 - [Free AI Tool](https://freeaitool.ai/) - List of Best & Latest Free AI Tools in 2024
 - [FUTUREPEDIA](https://www.futurepedia.io/) - THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY
