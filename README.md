@@ -52,13 +52,13 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tools Explore](https://aiex.me/) - Curated tools and insights to elevate your AI-driven projects.
 - [AI Tools For Me](https://aitoolsforme.com/) - Growing AI Directory Tools.
 - [AI Tool List](https://www.aitoollist.org) - An awesome directory of AI tools
+- [AI Journey] (https://aijourney.so) - offers expert reviews and insights on AI tools to help individuals and businesses succeed by leveraging the best AI technology.
 - [AiToolz](https://aitoolz.net)Find useful AI tools.
 - [AI Parabellum](https://aiparabellum.com) - Find Tomorrow's AI Tools Today
 - [AI Agent Store](https://aiagentstore.ai) - Find AI Agents and AI Agent building tools or list your own Agent.
 - [AI Agents Base](https://aiagentsbase.com)  - Your All-in-One AI Agents Directory
 - [AI Agents List](https://aiagentslist.com/) - Discover and compare the best AI agents for your needs.
-- [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILY.
-
+- [AI Agents Directory](https://aiagentsdirectory.com/) - Specialized directory for AI Agents and Frameworks, UPDATED DAILE
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
